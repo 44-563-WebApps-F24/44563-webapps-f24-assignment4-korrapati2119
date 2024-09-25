@@ -4,10 +4,9 @@ A practice assignment for HTML with CSS
 
 hosted at <https://44-563-webapps-f24.github.io/44563-webapps-f24-assignment4-korrapati2119/greekplay.html>
 <html>
-<head><title>
-  ICONS
-</title>
-<link rel="stylesheet" href = "sophocles.css"></head>
+<head>
+<link rel="stylesheet" href = "sophocles.css">
+</head>
   <body>
     <div class="image">
       <img src="greek.jpg"alt ="greekimage">
