@@ -3,3 +3,21 @@
 A practice assignment for HTML with CSS
 
 hosted at <https://44-563-webapps-f24.github.io/44563-webapps-f24-assignment4-korrapati2119/greekplay.html>
+<html>
+<head><title>
+  ICONS
+</title>
+<link rel="stylesheet" href = "sophocles.css"></head>
+  <body>
+    <div class="image">
+      <img src="greek.jpg"alt ="greekimage">
+    </div>
+    <nav class="navbar">
+      <>
+      <ul>
+        <li><a href="greekplay.html"> GREEK PLAY </a></li>
+        <li><a href="encore.html"> ENCORE </li>
+      </ul>
+    </nav>
+  </body>
+</html>
