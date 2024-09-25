@@ -53,15 +53,5 @@ h5:hover{
     padding: 10px;
     width: 20%;
 }
-.image{
- text-align: center;
-}
-.navbar{
- position : fixed;
- background-color: #dddfff
- color: blue;
-}
-.navbar ul{
- text-align: center;
-}
+
 
