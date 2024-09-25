@@ -53,21 +53,37 @@ h5:hover{
     padding: 10px;
     width: 20%;
 }
-.image{
-    text-align: center;
-   }
-   .navbar{
-    position : fixed;
-    background-color: #dddfff
-    color: blue;
-   }
-   .navbar ul{
-    text-align: center;
-   }
-   .navbar a i {
-    margin-right: 5px; 
+.navbar {
+    background-color:yellow; 
+    padding: 10px 0; 
+    position: fixed; 
+    bottom: 0;
+    width: 50%; 
+    text-align: center; 
 }
+
+.navbar ul {
+    list-style: none; 
+    margin: 0; 
+    padding: 0; 
+}
+
 .navbar li {
-    display: inline;
-    margin: 0 20px;
+    display: inline; 
+    margin: 0 10px; 
+}
+
+.navbar a {
+    color: black; 
+    text-decoration: none;
+}
+
+.navbar a:hover {
+    text-decoration: underline; 
+}
+
+.navbar img {
+    vertical-align: middle; 
+    margin-right: 10px; 
+    height: 20px; 
 }
