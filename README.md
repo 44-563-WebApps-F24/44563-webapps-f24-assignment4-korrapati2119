@@ -12,7 +12,6 @@ hosted at <https://44-563-webapps-f24.github.io/44563-webapps-f24-assignment4-ko
       <img src="greek.jpg"alt ="greekimage">
     </div>
     <nav class="navbar">
-      <>
       <ul>
         <li><a href="greekplay.html"> GREEK PLAY </a></li>
         <li><a href="encore.html"> ENCORE </li>
