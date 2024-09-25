@@ -53,5 +53,21 @@ h5:hover{
     padding: 10px;
     width: 20%;
 }
-
-
+.image{
+    text-align: center;
+   }
+   .navbar{
+    position : fixed;
+    background-color: #dddfff
+    color: blue;
+   }
+   .navbar ul{
+    text-align: center;
+   }
+   .navbar a i {
+    margin-right: 5px; 
+}
+.navbar li {
+    display: inline;
+    margin: 0 20px;
+}
